@@ -11,3 +11,7 @@
 <img width="481" alt="image" src="https://github.com/mystryvedi/Metaverse_Internship_Bowling_Game/assets/115182741/cbc02af2-3055-48c9-bcb8-3e1136a00d84">
 
 ### Websites and documentation used
+- https://aframe.io/docs/1.4.0/introduction/
+- https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_A-Frame
+- https://www.pubnub.com/docs/sdks/unity
+- https://docs.unity.com/
