@@ -15,3 +15,6 @@
 - https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_A-Frame
 - https://www.pubnub.com/docs/sdks/unity
 - https://docs.unity.com/
+
+### Prepared By-
+- Gyapti Trivedi 03801182022 ECE-AI-1 3rd Semester
